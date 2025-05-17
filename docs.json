@@ -100,7 +100,3 @@
     }
   }
 }
-"custom": {
-  "css": ["/style.css"]
-},
-"footer": {}
